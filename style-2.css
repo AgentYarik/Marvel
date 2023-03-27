@@ -176,3 +176,33 @@ body{
 }
 .spider {
 }
+.photo-1:hover::before {
+    content: "Я людина павук";
+    position: absolute;
+    top: 0;
+    left: -90px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+.photo-2:hover::before {
+    content: "Я Є залізна людина";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+.photo-3:hover::before {
+    content: "Я б'юся до кінця";
+    position: absolute;
+    top: 0;
+    right: -90px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    font-weight: bold;
+}
