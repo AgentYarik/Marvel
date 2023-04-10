@@ -181,7 +181,7 @@ body{
     position: absolute;
     top: 0;
     left: -90px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(142, 133, 173);
     border-radius: 5px;
     padding: 5px;
     font-weight: bold;
@@ -191,7 +191,7 @@ body{
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(197, 126, 97, 0.753);
     border-radius: 5px;
     padding: 5px;
     font-weight: bold;
@@ -202,7 +202,7 @@ body{
     top: 0;
     right: -90px;
     border-radius: 5px;
-    background-color: rgb(10, 223, 20);
+    background-color: rgb(25, 207, 207);
     padding: 5px;
     font-weight: bold;
 }
